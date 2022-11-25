@@ -1,5 +1,7 @@
 # Collaborative-Project
 
+[![GitHub release](https://img.shields.io/github/release/dongdongthedingdong/Collaborative-Project.svg)](https://GitHub.com/dongdongthedingdong/Collaborative-Projectt/releases/)
+[![MIT license](https://img.shields.io/github/license/dongdongthedingdong/Collaborative-Project)](https://dongdongthedingdong.mit-license.org/)
 
 
 This is Dongjae's collaborative code project.
