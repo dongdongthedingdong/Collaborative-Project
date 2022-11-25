@@ -4,7 +4,7 @@
 [![MIT license](https://img.shields.io/github/license/dongdongthedingdong/Collaborative-Project)](https://dongdongthedingdong.mit-license.org/)
 
 
-This is Dongjae's collaborative code project.
+This is Dongjae's collaborative code project. Check it out [here on editor.p5js.org](https://editor.p5js.org/kreier/sketches/konTWbbVt)
 
 <img src="scetch1.png" align="right" width="30%">
 
