@@ -22,6 +22,16 @@ function ez_fix(){
     }
 }
 
+function lineCreation(){
+    for(var i = 0;i < NUM_ROTATIONS;i++){
+  rotate(360/NUM_ROTATIONS);
+  line(1/2*STEP, 1/2*STEP, 8)
+    line(3/2*STEP, -1/2*STEP, 10)
+    line(2*STEP, 1*STEP, 5)
+    }
+}
+
+
 function setup() {
   createCanvas(CANVAS_SIZE, CANVAS_SIZE);
   background(220);
@@ -36,10 +46,26 @@ function setup() {
   ez_fix();
   translate(200,0)
   ez_fix();
+
   
   
   
   
 
+
+
+
+  //translate(-300,-100)
+  //noStroke();
+  //fill(255, 0, 0);
+  //circle(200, 200, 160);
+  //fill(0, 0, 255);
+  //arc(200, 200, 160, 160, 180, 360);
+  //circle(240, 200, 80);
+  //fill(255, 0, 0);
+  //circle(160, 200, 80);
+}
+
+function draw() {
 
 }
