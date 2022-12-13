@@ -1,6 +1,10 @@
 # Collaborative-Project
 
-This is the Finished Product. [here on editor.p5js.org](https://editor.p5js.org/IsNotAvaliable/full/TMha20FGh)
+[![GitHub release](https://img.shields.io/github/release/dongdongthedingdong/Collaborative-Project.svg)](https://GitHub.com/dongdongthedingdong/Collaborative-Projectt/releases/)
+[![MIT license](https://img.shields.io/github/license/dongdongthedingdong/Collaborative-Project)](https://dongdongthedingdong.mit-license.org/)
+
+
+This is Dongjae's collaborative code project. Check it out [here on editor.p5js.org](https://editor.p5js.org/kreier/sketches/konTWbbVt)
 
 ## Code
 
