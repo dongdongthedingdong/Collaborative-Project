@@ -8,6 +8,8 @@ This is Dongjae's collaborative code project. Check it out [here on editor.p5js.
 
 https://editor.p5js.org/dongjaei078/sketches/GqWenZYzN
 
+Reference: https://dev.to/andyhaskell/convert-images-to-mosaics-in-p5js-2dlc
+
 ## Code
 
 This is the code to create this picture:
